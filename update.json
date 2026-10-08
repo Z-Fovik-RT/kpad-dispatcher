@@ -1,0 +1,8 @@
+{
+  "versionCode": 1000,
+  "versionName": "1.0",
+  "url": "KPad165.apk",
+  "size": 280729,
+  "sha256": "939E6F8CB0E966A6200050B5C2C76E3E60969DFF9B7459907BAF2563E2C200A1",
+  "notes": "1. 新增「检查更新」：以后发新版本不用再手动传 APK\n2. 日志页修复\n3. 卸载后自动清理 root 端残留"
+}
