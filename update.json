@@ -3,6 +3,6 @@
   "versionName": "1.0",
   "url": "kpad-dispatcher-1.0.apk",
   "size": 280729,
-  "sha256": "0F6405D56AD12851FF017B2553C1C89E32CA6979D71A8AE529982CCD6FE6FC46",
+  "sha256": "392CB150B17B7D93CEE22A61B2CBD7AF9676B73B03F7B93844852EF5A3524FAA",
   "notes": "1. 新增「检查更新」：以后发新版本不用再手动传 APK\n2. 日志页修复\n3. 卸载后自动清理 root 端残留"
 }
